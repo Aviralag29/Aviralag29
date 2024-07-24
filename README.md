@@ -7,10 +7,13 @@ My journey in the world of programming began when I discovered the power of codi
 ![](https://leetcard.jacoblin.cool/aviral2905?ext=contest)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-blue)](https://www.hackerearth.com/@avirala368)
 
-🔭 Areas of Interest
+🔭 Areas of Interest-
+
 Data Structures and Algorithms: I've been deeply involved in solving complex problems and optimizing solutions through efficient algorithms and data structures.
+
 Data Science and Machine Learning: I’ve explored the fascinating world of data, uncovering insights and building predictive models.
 Full Stack Development: I've worked as a full stack developer, crafting seamless web applications with robust backends and dynamic frontends.
+
 Android and iOS Development: I have experience in developing mobile applications for both Android and iOS platforms, bringing ideas to life in the palm of your hand.
 
 🎓 Education
