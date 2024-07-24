@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello there! I'm Aviral Agarwal a passionate computer science student on a quest to explore the realms of technology and unlock its potential for the betterment of society.<br>💻 My journey in the world of programming started when I discovered the power of coding to bring ideas to life. Since then, I've been on an exciting adventure, diving into various domains of computer science and building cool projects along the way.<br>🔭 Currently, my main areas of interest revolve around[python, c++ , web development, flutter , UX/UI.<br>🎓 Currently pursuing my degree in computer science at [VIT University].<br>🌐 You can find some of my noteworthy projects, code contributions, and explorations right here on my GitHub.<br>⭐️ "Success is not final, failure is not fatal: It is the courage to continue that counts."
 
-
+![](https://leetcard.jacoblin.cool/aviral2905?ext=contest)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__i._aviral._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aviral-agarwal-63052a244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AviralA2905) 
 
