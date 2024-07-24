@@ -1,4 +1,4 @@
-#👋 Hello there! I'm Aviral Agarwal
+👋 Hello there! I'm Aviral Agarwal
 
 I'm a passionate computer science student on a quest to explore the realms of technology and unlock its potential for the betterment of society.
 
