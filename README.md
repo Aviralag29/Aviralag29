@@ -1,7 +1,9 @@
 👋 Hello there! I'm Aviral Agarwal
+
 I'm a passionate computer science student on a quest to explore the realms of technology and unlock its potential for the betterment of society.
 
-💻 My Journey
+💻 My Journey-
+
 My journey in the world of programming began when I discovered the power of coding to bring ideas to life. Since then, I've been on an exciting adventure, diving into various domains of computer science and building cool projects along the way.
 
 ![](https://leetcard.jacoblin.cool/aviral2905?ext=contest)
@@ -16,10 +18,12 @@ Full Stack Development: I've worked as a full stack developer, crafting seamless
 
 Android and iOS Development: I have experience in developing mobile applications for both Android and iOS platforms, bringing ideas to life in the palm of your hand.
 
-🎓 Education
+🎓 Education-
+
 I'm currently pursuing my degree in computer science at [VIT University], where I’m honing my skills and expanding my knowledge base.
 
-🌐 Explore My Work
+🌐 Explore My Work-
+
 You can find some of my noteworthy projects, code contributions, and explorations right here on my GitHub. I’m always open to collaborations and discussions, so feel free to reach out!
 
 ## 🌐 Socials:
